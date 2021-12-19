@@ -1,0 +1,1 @@
+This is project was created from this walkthrough: https://bfnightly.bracketproductions.com/rustbook/chapter_0.html
